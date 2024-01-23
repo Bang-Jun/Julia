@@ -1,0 +1,42 @@
+An optimal solution has been found:
+Optimal objective value: 47.0
+Node j
+Node j
+Node j
+Node j
+Node j
+Node j
+Node j
+Node j
+Node j
+Node j
+Node j
+Vehicle Route: [1, 5, 4, 10, 3, 6, 11, 2, 9, 7, 8, 12]
+
+Service start times:
+Node 1: 0.0
+Node 2: 57.0
+Node 3: 43.0
+Node 4: 22.0
+Node 5: 15.0
+Node 6: 50.0
+Node 7: 65.0
+Node 8: 69.0
+Node 9: 59.0
+Node 10: 33.0
+Node 11: 53.0
+Node 12: 83.0
+
+Vehicle loads after each node:
+Node 1: 0.0
+Node 2: 3.0
+Node 3: 2.0
+Node 4: 2.0
+Node 5: 1.0
+Node 6: 3.0
+Node 7: 1.0
+Node 8: 0.0
+Node 9: 2.0
+Node 10: 1.0
+Node 11: 2.0
+Node 12: 0.0
